@@ -4,7 +4,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication1;
+package DataStructureSolutions.algorithms.graphtheory.mincutmaxflow.problems.KGP16J;
 
 import java.io.*;
 import java.util.*;
