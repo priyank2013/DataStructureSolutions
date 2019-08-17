@@ -1,0 +1,8 @@
+For basic understanding of Min Cut theorm go through HackerEarth blog : https://www.hackerearth.com/practice/algorithms/graphs/min-cut/tutorial/
+
+For understanding Karger's algorithm : https://www.geeksforgeeks.org/kargers-algorithm-for-minimum-cut-set-1-introduction-and-implementation/
+
+Java Implementation of the algorithm : https://www.sanfoundry.com/java-program-implement-algorithm-find-global-min-cut-graph/
+
+Video tutorial : https://www.youtube.com/watch?v=KqMGeNZuwfI
+		 https://www.youtube.com/watch?v=YMME2Xaqnq8
